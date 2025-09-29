@@ -51,7 +51,7 @@ export function FiltersBar({
             <SelectValue placeholder="Filter by category" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="__all__">All categories</SelectItem>
+            <SelectItem value="">All categories</SelectItem>
             {allTags.map((tag) => (
               <SelectItem key={tag} value={tag}>
                 {tag}
