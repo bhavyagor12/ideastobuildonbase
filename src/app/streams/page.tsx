@@ -4,6 +4,13 @@ import { XEmbed } from "react-social-media-embed";
 
 export const userStreams = [
   {
+    id: "0",
+    url: "https://x.com/BasedIndia/status/1949827929002905892",
+    title: "Ideas from crypto accerlators",
+    description:
+      "How to break down ideas from crypto accelerators like AllianceDAO.",
+  },
+  {
     id: "1",
     url: "https://x.com/bhavya_gor/status/1952364207502217576",
     title: "DCA: Mini App Breakdown",
